@@ -1,2 +1,2 @@
 # About Me
-Enthusiastic about Operating System Kernel Security, Internals, and Fuzzing.
+An enthusiast of OS kernel internals, fuzzing, and RE.
