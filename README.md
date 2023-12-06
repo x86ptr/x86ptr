@@ -1,2 +1,2 @@
 # About Me
-An enthusiast of OS kernel internals, fuzzing, and RE.
+Student/Researcher. Enthusiastic about OS kernel internals, fuzzing, and RE.
